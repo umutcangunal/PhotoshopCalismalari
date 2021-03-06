@@ -1,0 +1,2 @@
+# PhotoshopCalismalari
+Başlangıç Photoshop Çalışmaları
