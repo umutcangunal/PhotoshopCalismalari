@@ -1,2 +1,2 @@
 # PhotoshopCalismalari
-Başlangıç Photoshop Çalışmaları
+Başlangıç Photoshop Çalışmalarıdır.
